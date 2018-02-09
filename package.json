@@ -1,14 +1,14 @@
 {
   "name": "@ff0000-ad-tech/ad-assets",
-	"publishConfig": {
-		"access": "public"
-	},
+  "publishConfig": {
+    "access": "public"
+  },
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-	"scripts": {
-		"pub": "np"
-	},
+  "scripts": {
+    "pub": "np"
+  },
   "repository": {
     "type": "git",
     "url": "git://github.com/ff0000-ad-tech/ad-assets.git"
@@ -20,7 +20,7 @@
     "eslint": "^4.16.0",
     "eslint-config-prettier": "^2.9.0",
     "eslint-plugin-prettier": "^2.5.0",
-		"np": "^2.19.0",
+    "np": "^2.19.0",
     "prettier": "^1.10.2"
   }
 }
