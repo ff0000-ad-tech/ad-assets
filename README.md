@@ -1,6 +1,1 @@
-##### RED Interactive Agency - Ad Technology
-
-Ad Assets 
-===============
-
-
+# DEPRECATED on Sept 13, 2018
